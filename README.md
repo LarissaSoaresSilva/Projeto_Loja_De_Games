@@ -103,7 +103,7 @@ Deploy em nuvem (Heroku, Render ou Railway)
 
 Integração com frontend Angular ou React
 
-## 👩‍💻 Desenvolvedora
+## 👩🏻‍💻 Desenvolvedora
 
 Feito com 💜 por Larissa Soares!
 
